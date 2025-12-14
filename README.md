@@ -2,7 +2,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)]()
 
-# ⚠️ EXTREME WARNING: VERY HIGH RISK OF PERMANENT BAN ⚠️
+# ⚠️ VERY HIGH RISK OF PERMANENT BAN ⚠️
 
 **DO NOT USE THIS IN ANY LIVE MULTIPLAYER GAME (e.g., RuneScape-like environments).**
 
