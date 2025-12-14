@@ -63,6 +63,9 @@ Tech stack:
 
 **Test in offline/single-player environments only.** Customize colors/constants at the top.
 
+This project is to get feet wet in understanding image-detection cursor controls, it can be further refined with a "macro engine" with multi-template matching, 
+OCR integration, anti-detection delays, and ML-based object recognition (using YOLO or similar, with which plenty of guides exist).
+
 ## Disclaimer (Again)
 This is old code from learning CV/automation. Color bots are easily detectable – Jagex's systems flag unnatural patterns fast.
 
